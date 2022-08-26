@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#Asp.net\\HospitalizacionEnCasa\\HospiEnCasa.App\\HospiEnCasa.App.Consola\\HospiEnCasa.App.Consola.csproj": {}
+    "D:\\C#Asp.net\\HospitalizacionEnCasa\\HospiEnCasa.App\\HospiEncasa.App.Consola\\HospiEnCasa.App.Consola.csproj": {}
   },
   "projects": {
-    "D:\\C#Asp.net\\HospitalizacionEnCasa\\HospiEnCasa.App\\HospiEnCasa.App.Consola\\HospiEnCasa.App.Consola.csproj": {
+    "D:\\C#Asp.net\\HospitalizacionEnCasa\\HospiEnCasa.App\\HospiEncasa.App.Consola\\HospiEnCasa.App.Consola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#Asp.net\\HospitalizacionEnCasa\\HospiEnCasa.App\\HospiEnCasa.App.Consola\\HospiEnCasa.App.Consola.csproj",
+        "projectUniqueName": "D:\\C#Asp.net\\HospitalizacionEnCasa\\HospiEnCasa.App\\HospiEncasa.App.Consola\\HospiEnCasa.App.Consola.csproj",
         "projectName": "HospiEnCasa.App.Consola",
-        "projectPath": "D:\\C#Asp.net\\HospitalizacionEnCasa\\HospiEnCasa.App\\HospiEnCasa.App.Consola\\HospiEnCasa.App.Consola.csproj",
+        "projectPath": "D:\\C#Asp.net\\HospitalizacionEnCasa\\HospiEnCasa.App\\HospiEncasa.App.Consola\\HospiEnCasa.App.Consola.csproj",
         "packagesPath": "C:\\Users\\ewin8\\.nuget\\packages\\",
-        "outputPath": "D:\\C#Asp.net\\HospitalizacionEnCasa\\HospiEnCasa.App\\HospiEnCasa.App.Consola\\obj\\",
+        "outputPath": "D:\\C#Asp.net\\HospitalizacionEnCasa\\HospiEnCasa.App\\HospiEncasa.App.Consola\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ewin8\\AppData\\Roaming\\NuGet\\NuGet.Config"
