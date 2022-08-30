@@ -39,10 +39,10 @@ namespace HospiEnCasa.App.Persistencia
             {
                 pacienteEncontrado.Nombre = paciente.Nombre;
                 pacienteEncontrado.Apellido = paciente.Apellido;
-                pacienteEncontrado.numeroTelefono = paciente.numeroTelefono;
+                pacienteEncontrado.NumeroTelefono = paciente.NumeroTelefono;
                 pacienteEncontrado.Genero = paciente.Genero;
                 pacienteEncontrado.Direccion = paciente.Direccion;
-                pacienteEncontrado.latitud = paciente.latitud;
+                pacienteEncontrado.Latitud = paciente.Latitud;
                 pacienteEncontrado.Longitud = paciente.Longitud;
                 pacienteEncontrado.Ciudad = paciente.Ciudad;
                 pacienteEncontrado.FechaNacimento = paciente.FechaNacimento;

@@ -6,7 +6,7 @@ namespace HospiEnCasa.App.Dominio
     {
              
             public string Direccion{get;set;}
-            public float latitud{get;set;}
+            public float Latitud{get;set;}
             public float Longitud{get;set;}
             public string Ciudad{get;set;}
             public DateTime FechaNacimento{get;set;}
